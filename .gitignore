@@ -1,0 +1,6 @@
+# ignore build artifacts
+bin
+build
+
+# ignore the non-template Makefile
+src/Makefile.options
